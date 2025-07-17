@@ -1,4 +1,4 @@
-"# Goa-Visitors-dashboard" (Tableau)
+"## Goa-Visitors-dashboard (Tableau) ##
 
 This project presents a comprehensive **data analysis and interactive Tableau dashboard** highlighting key trends, behaviors, and insights related to tourism in Goa from **2019 to 2023**.
 
