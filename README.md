@@ -28,7 +28,6 @@ This project presents a comprehensive **data analysis and interactive Tableau da
 
 - **Tableau Public** for dashboard creation
 - Data Cleaning & Structuring: Excel
-- Insights derived using **EDA (Exploratory Data Analysis)** techniques
 
 
 🔗 [Dashboard (View Only)]([https://www.linkedin.com/in/your-profile/](https://public.tableau.com/views/VinayakChodankar_FInalDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
